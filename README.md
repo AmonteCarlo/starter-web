@@ -16,3 +16,7 @@ Adding more Purpose to provide a simple example.
 This is a simple way to show something
 
 ## How To Contribute
+
+### Copyright
+
+2020 Git.Training
