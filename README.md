@@ -1,7 +1,10 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+
 ## Introduction
+
+Introduction to GIT HUB and editing READEME.md files
 
 ## Purpose
 
