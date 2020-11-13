@@ -17,6 +17,8 @@ This is a simple way to show something
 
 ## How To Contribute
 
+Please fork this repository and issue Pull requests for review.
+
 ### Copyright
 
 2020 Git.Training
