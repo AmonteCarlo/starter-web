@@ -9,7 +9,10 @@ Introduction to GIT HUB and editing READEME.md files
 ## Purpose
 
 Sample website with plenty of files for demos, adding more Purpose text.
+Adding more Purpose to provide a simple example.
 
 ## Deployment
+
+This is a simple way to show something
 
 ## How To Contribute
