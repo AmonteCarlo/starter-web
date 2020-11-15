@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 Adding a line for the rebasing example, then more changes from myfeature branch too
+Updating emergency fix after stash
 
 ## Introduction
 
